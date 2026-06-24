@@ -6,4 +6,4 @@ altair>=5.0.0
 openpyxl>=3.1.0
 xlsxwriter>=3.1.0
 reportlab>=4.0.0
-streamlit-aggrid==1.0.5
+streamlit-aggrid>=1.0.5
