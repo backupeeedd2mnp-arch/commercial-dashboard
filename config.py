@@ -46,7 +46,7 @@ import pandas as pd
 # Paths
 # ---------------------------------------------------------------------------
 BASE_DIR = Path(__file__).resolve().parent
-DATA_DIR = BASE_DIR / "data"
+DATA_DIR = BASE_DIR
 DEFAULT_CSV_PATH = DATA_DIR / "ATC_MONTHLY_ALL_UNITS.csv"
 
 APP_TITLE = "DVVNL Commercial Review Dashboard"
